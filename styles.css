@@ -157,3 +157,19 @@ img {
 .mt-5 {
 	margin-top: 0rem !important;
 }
+
+.desenvolvedor {
+	font-size: 1rem;
+	color: #666f88;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 1.25rem;
+}
+
+.front {
+	font-size: 1rem;
+	color: #666f88;
+
+	text-align: center;
+	padding-bottom: 1.25rem;
+}

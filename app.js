@@ -1,6 +1,7 @@
 const questions = [
 	{
-		text: "Eu tenho sido capaz de rir e ver o lado divertido das coisas",
+		// text: "Eu tenho sido capaz de rir e ver o lado divertido das coisas",
+		text: "Você tem sido capaz de rir e ver o lado divertido das coisas?",
 		options: [
 			{ label: "Como eu sempre fiz", score: 0 },
 			{ label: "Não tanto quanto antes", score: 1 },
@@ -9,7 +10,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho pensado no futuro com alegria e tenho tido esperança",
+		// text: "Eu tenho pensado no futuro com alegria e tenho tido esperança",
+		text: "Você tem pensado no futuro com alegria e tem tido esperança?",
 		options: [
 			{ label: "Sim, como de costume", score: 0 },
 			{ label: "Um pouco menos que de costume", score: 1 },
@@ -18,7 +20,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho me culpado sem necessidade quando as coisas dão errado",
+		// text: "Eu tenho me culpado sem necessidade quando as coisas dão errado",
+		text: "Você tem se culpado sem necessidade quando as coisas dão errado?",
 		options: [
 			{ label: "Sim, a maioria das vezes", score: 3 },
 			{ label: "Sim, algumas vezes", score: 2 },
@@ -27,7 +30,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho ficado ansiosa ou preocupada sem motivo",
+		// text: "Eu tenho ficado ansiosa ou preocupada sem motivo",
+		text: "Você tem ficado ansiosa ou preucupada sem motivo?",
 		options: [
 			{ label: "Não, nunca", score: 0 },
 			{ label: "De vez em quando", score: 1 },
@@ -36,7 +40,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho me sentido com medo ou muito assustada, sem motivo",
+		// text: "Eu tenho me sentido com medo ou muito assustada, sem motivo",
+		text: "Você tem se sentido com medo? ou muito assustada sem motivo?",
 		options: [
 			{ label: "Sim, muitas vezes", score: 3 },
 			{ label: "Sim, por vezes", score: 2 },
@@ -45,7 +50,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho me sentido sobrecarregada pelas tarefas e acontecimentos do meu dia-a-dia",
+		// text: "Eu tenho me sentido sobrecarregada pelas tarefas e acontecimentos do meu dia-a-dia",
+		text: "Você tem se sentido sobrecarregada pelas tarefas e acontecimentos do seu dia-a-dia",
 		options: [
 			{
 				label: "Sim, na maioria das vezes eu não consigo lidar bem com eles",
@@ -66,7 +72,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho me sentido tão infeliz que eu tenho tido dificuldade de dormir",
+		// text: "Eu tenho me sentido tão infeliz que eu tenho tido dificuldade de dormir",
+		text: "Você tem se sentido tão infeliz que tem tido dificuldades para dormir?",
 		options: [
 			{ label: "Sim, quase sempre", score: 3 },
 			{ label: "Sim, algumas vezes", score: 2 },
@@ -75,7 +82,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Tenho me sentido triste ou muito mal",
+		// text: "Tenho me sentido triste ou muito mal",
+		text: "Tem se sentido triste ou muito mal?",
 		options: [
 			{ label: "Sim, quase sempre", score: 3 },
 			{ label: "Sim, muitas vezes", score: 2 },
@@ -84,7 +92,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Tenho me sentido tão triste que tenho chorado",
+		// text: "Tenho me sentido tão triste que tenho chorado",
+		text: "Tem se sentido tão triste que tem tido vontade de chorar?",
 		options: [
 			{ label: "Sim, a maior parte do tempo", score: 3 },
 			{ label: "Sim, muitas vezes", score: 2 },
@@ -93,7 +102,8 @@ const questions = [
 		],
 	},
 	{
-		text: "Eu tenho pensado em fazer alguma coisa contra mim mesma",
+		// text: "Eu tenho pensado em fazer alguma coisa contra mim mesma",
+		text: "Você tem pensando em fazer alguma coisa contra si mesma?",
 		options: [
 			{ label: "Sim, muitas vezes", score: 3 },
 			{ label: "Às vezes", score: 2 },
