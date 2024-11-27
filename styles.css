@@ -1,4 +1,5 @@
 body,
+html,
 p {
 	background-color: #fafafa;
 	font-family: "Arial", sans-serif;
@@ -9,10 +10,10 @@ p {
 .container {
 	max-width: 750px;
 	margin-top: 20px;
-	margin-bottom: 50px;
+	margin-bottom: 0;
 	padding: 20px;
 	background: #ffffff;
-	border-radius: 15px;
+	/* border-radius: 15px; */
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -151,4 +152,8 @@ img {
 .criar-margem {
 	margin-top: 20px;
 	line-height: 2rem;
+}
+
+.mt-5 {
+	margin-top: 0rem !important;
 }
