@@ -1,0 +1,154 @@
+body,
+p {
+	background-color: #fafafa;
+	font-family: "Arial", sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	max-width: 750px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	padding: 20px;
+	background: #ffffff;
+	border-radius: 15px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.container-info {
+	max-width: 750px;
+	/* margin-top: 20px; */
+	padding-top: 20px;
+	margin-bottom: 40px;
+}
+
+.progress-bar {
+	transition: width 0.5s ease;
+	background-color: #f5a6c0;
+}
+
+.highlight {
+	background-color: #fff6f7;
+	border-radius: 10px;
+	padding: 15px;
+}
+
+.icon {
+	font-size: 20px;
+	margin-right: 10px;
+}
+
+h1,
+h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+ul {
+	padding-left: 1.5rem;
+}
+
+button.btn.btn-primary.w-100 {
+	background-color: #edadbd;
+	color: white;
+	border-color: #edadbd;
+}
+
+button.btn.btn-primary.w-100:hover {
+	background-color: #f3c1ce;
+	color: white;
+	border-color: #f3c1ce;
+}
+
+button.btn.btn-success.w-100 {
+	background-color: #92afd7;
+	color: white;
+	border-color: #92afd7;
+}
+
+button.btn.btn-success.w-100 :hover {
+	background-color: #a0badd;
+	color: white;
+	border-color: #a0badd;
+}
+
+.titulo {
+	font-size: 1.875rem;
+	color: #666f88;
+	font-weight: bold;
+	padding-bottom: 0.3125rem;
+}
+
+.alunos {
+	font-size: 1rem;
+	color: #b5bac9;
+	padding-bottom: 1.25rem;
+}
+
+.alunos-in {
+	font-size: 1rem;
+	color: #252525;
+	padding-top: 0.625rem;
+	font-weight: normal;
+	line-height: 1rem;
+}
+
+.textinho {
+	background-color: #fef7f9;
+	padding: 20px;
+	/* font-size: 1.5rem;
+	color: #b5bac9;
+	padding-bottom: 1.25rem; */
+	font-size: 1.3125rem;
+	color: #666f88;
+	font-weight: bold;
+	/* padding-bottom: 0.3125rem; */
+}
+.textinho-in {
+	background-color: #fef7f9;
+	padding-bottom: 20px;
+	/* font-size: 1.5rem;
+	color: #b5bac9;
+	padding-bottom: 1.25rem; */
+	font-size: 1rem;
+	color: #666f88;
+	font-weight: bold;
+	/* padding-bottom: 0.3125rem; */
+}
+
+img {
+	/* padding-top: 1.25rem; */
+	max-width: 9.375rem;
+	padding-bottom: 1.25rem;
+}
+.text-primary {
+	color: #d096a5 !important;
+}
+
+.fas {
+	margin-top: 20px;
+}
+
+.text-success {
+	color: #d096a5 !important;
+}
+
+.cuidados {
+	margin-top: 20px;
+}
+
+.finao-ponto {
+	margin-top: 50px;
+}
+
+.mt-33 {
+	font-size: 1rem;
+	color: #92afd7;
+	font-weight: bold;
+}
+
+.criar-margem {
+	margin-top: 20px;
+	line-height: 2rem;
+}
