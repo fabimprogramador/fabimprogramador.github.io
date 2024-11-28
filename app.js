@@ -185,9 +185,9 @@ document.getElementById("epdsForm").addEventListener("submit", (e) => {
 		document.getElementById("recommendation").textContent =
 			"Risco moderado de depressão.";
 		careGuidelines.innerHTML = `
-      <li>É necessário um avaliação detalhada com psicólogo.</li>
+      <li>É necessário uma avaliação detalhada com psicólogo.</li>
       <li>Monitorar sinais de agravamento no estado emocional.</li>
-      <li>O profissional deve fazer o aconlhimento ao paciente e conversar com os familiares.</li>
+      <li>O profissional deve fazer o acolhimento ao paciente e conversar com os familiares.</li>
       <li>Incentivar suporte social e familiar.</li>
       <li>Orientar sobre a importância do autocuidado.</li>
     `;
